@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Git Lab Activity - VS Code");
+Console.WriteLine("Name: Josevero C. Gomez");
+Console.WriteLine("Section: BSCS 2-5");
+
